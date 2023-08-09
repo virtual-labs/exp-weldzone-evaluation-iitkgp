@@ -2,38 +2,112 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In the high-temperature HAZ, finer grains will be formed.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which type of welding no filler material is used?",
+      "answers": {
+        "a": "Autogenous welding",
+        "b": "Heterogenous welding",
+        "c": "None of the above",
+        "d": "All of the Above"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+  {
+      "question": "The heat-affected zone width decreases with decreasing heat input.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
+              },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+{
+      "question": "With the increase of thermal diffusivity width of heat affected zone?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "All of the above",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following welding process have a high heat-affected zone?",
+      "answers": {
+        "a": "Laser beam welding",
+        "b": "Oxyacetylene welding",
+        "c": "Electron beam welding",
+        "d": "Gas Tungsten Arc welding"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following material has high thermal diffusivity?",
+      "answers": {
+        "a": "Steel",
+        "b": "Copper",
+        "c": "Brass",
+        "d": "Bronze"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "The minimum temperature required for recrystallization in pure metals is (Tm is the melting temperature in (K))?",
+      "answers": {
+        "a": "0.8Tm",
+        "b": "0.4Tm",
+        "c": "0.6Tm",
+        "d": "0.2Tm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following welding process have low heat affected zone?",
+      "answers": {
+        "a": "Gas Tungsten Arc welding",
+        "b": "Laser welding",
+        "c": "Oxyacetylene welding",
+        "d": "Gas metal arc welding"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "In fusion welding partially melted zone lies between which two microstructural zones?",
+      "answers": {
+        "a": "Grain refinement and grain growth zone",
+        "b": "Fusion and grain growth zone  ",
+        "c": "Grain refinement and Fusion zone",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "In base metal or parent metal no microstructural changes take place.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
-  ]
+
+]
+
 }
+
+
