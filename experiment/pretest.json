@@ -7,7 +7,7 @@
         "a": "True",
         "b": "False"  
       },     
-      "explainations":{ 
+      "explanations":{ 
         "a":"You are right",
         "b":"Your are Wrong, Option \"a\" is correct answer"
       },
@@ -20,7 +20,7 @@
         "a": "True",
         "b": "False"
       },
-      "explainations":{ 
+      "explanations":{ 
         "a":"Your are Wrong, Option \"b\" is correct answer",
         "b":"You are right"
       },
@@ -35,7 +35,7 @@
         "c": "Unaffected base metal or parent metal",
         "d": "All of the above"
       },
-      "explainations":{ 
+      "explanations":{ 
         "a":"Your are Wrong, Option \"d\" is correct answer",
         "b":"Your are Wrong, Option \"d\" is correct answer",
         "c":"Your are Wrong, Option \"d\" is correct answer",
