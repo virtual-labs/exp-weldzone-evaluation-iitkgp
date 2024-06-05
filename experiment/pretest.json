@@ -5,8 +5,11 @@
       "question": "In the fusion zone of welding melting and solidification of the molten metal takes place?",
       "answers": {
         "a": "True",
-        "b": "False"
-        
+        "b": "False"  
+      },     
+      "explainations":{ 
+        "a":"You are right",
+        "b":"Your are Wrong, Option \"a\" is correct answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -16,6 +19,10 @@
       "answers": {
         "a": "True",
         "b": "False"
+      },
+      "explainations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,6 +34,12 @@
         "b": "Heat affected zone",
         "c": "Unaffected base metal or parent metal",
         "d": "All of the above"
+      },
+      "explainations":{ 
+        "a":"Your are Wrong, Option \"d\" is correct answer",
+        "b":"Your are Wrong, Option \"d\" is correct answer",
+        "c":"Your are Wrong, Option \"d\" is correct answer",
+        "d":"You are right"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
