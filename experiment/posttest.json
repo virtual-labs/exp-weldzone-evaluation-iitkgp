@@ -7,6 +7,10 @@
         "a": "True",
         "b": "False"
       },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -18,6 +22,12 @@
         "c": "None of the above",
         "d": "All of the Above"
       },
+      "explanations":{ 
+        "a":"You are right",
+        "b":"Your are Wrong, Option \"a\" is correct answer",
+        "c":"Your are Wrong, Option \"a\" is correct answer",
+        "d":"Your are Wrong, Option \"a\" is correct answer"
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -26,6 +36,10 @@
       "answers": {
         "a": "True",
         "b": "False"
+              },
+              "explanations":{ 
+                "a":"You are right",
+                "b":"Your are Wrong, Option \"a\" is correct answer"
               },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -38,6 +52,12 @@
         "c": "All of the above",
         "d": "None of the above"
       },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -48,6 +68,12 @@
         "b": "Oxyacetylene welding",
         "c": "Electron beam welding",
         "d": "Gas Tungsten Arc welding"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -60,6 +86,12 @@
         "c": "Brass",
         "d": "Bronze"
       },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -70,6 +102,12 @@
         "b": "0.4Tm",
         "c": "0.6Tm",
         "d": "0.2Tm"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -82,6 +120,12 @@
         "c": "Oxyacetylene welding",
         "d": "Gas metal arc welding"
       },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -93,6 +137,12 @@
         "c": "Grain refinement and Fusion zone",
         "d": "None of the above"
       },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -101,6 +151,10 @@
       "answers": {
         "a": "True",
         "b": "False"
+      },
+      "explanations":{ 
+        "a":"You are right",
+        "b":"Your are Wrong, Option \"a\" is correct answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
