@@ -1,0 +1,167 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In the high-temperature HAZ, finer grains will be formed.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which type of welding no filler material is used?",
+      "answers": {
+        "a": "Autogenous welding",
+        "b": "Heterogenous welding",
+        "c": "None of the above",
+        "d": "All of the Above"
+      },
+      "explanations":{ 
+        "a":"You are right",
+        "b":"Your are Wrong, Option \"a\" is correct answer",
+        "c":"Your are Wrong, Option \"a\" is correct answer",
+        "d":"Your are Wrong, Option \"a\" is correct answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "The heat-affected zone width decreases with decreasing heat input.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+              },
+              "explanations":{ 
+                "a":"You are right",
+                "b":"Your are Wrong, Option \"a\" is correct answer"
+              },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+{
+      "question": "With the increase of thermal diffusivity width of heat affected zone?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "All of the above",
+        "d": "None of the above"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following welding process have a high heat-affected zone?",
+      "answers": {
+        "a": "Laser beam welding",
+        "b": "Oxyacetylene welding",
+        "c": "Electron beam welding",
+        "d": "Gas Tungsten Arc welding"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following material has high thermal diffusivity?",
+      "answers": {
+        "a": "Steel",
+        "b": "Copper",
+        "c": "Brass",
+        "d": "Bronze"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "The minimum temperature required for recrystallization in pure metals is (Tm is the melting temperature in (K))?",
+      "answers": {
+        "a": "0.8Tm",
+        "b": "0.4Tm",
+        "c": "0.6Tm",
+        "d": "0.2Tm"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "Which of the following welding process have low heat affected zone?",
+      "answers": {
+        "a": "Gas Tungsten Arc welding",
+        "b": "Laser welding",
+        "c": "Oxyacetylene welding",
+        "d": "Gas metal arc welding"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "In fusion welding partially melted zone lies between which two microstructural zones?",
+      "answers": {
+        "a": "Grain refinement and grain growth zone",
+        "b": "Fusion and grain growth zone  ",
+        "c": "Grain refinement and Fusion zone",
+        "d": "None of the above"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "In base metal or parent metal no microstructural changes take place.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations":{ 
+        "a":"You are right",
+        "b":"Your are Wrong, Option \"a\" is correct answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+
+]
+
+}
+
+
