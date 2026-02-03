@@ -43,6 +43,40 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary characteristic of heat affected zone in welding?",
+      "answers": {
+        "a": "It is the region where melting of the filler material will occur",
+        "b": "It is the region in which microstructural changes occur but does not melt",
+        "c": "It is the region in which microstructural changes and melting occur",
+        "d": "None of the above"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"b\" is correct answer",
+        "b":"You are right",
+        "c":"Your are Wrong, Option \"b\" is correct answer",
+        "d":"Your are Wrong, Option \"b\" is correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which mechanical property will be influenced by the microstructure evolution?",
+      "answers": {
+        "a": "Hardness",
+        "b": "Strength",
+        "c": "Toughness",
+        "d": "All of the above"
+      },
+      "explanations":{ 
+        "a":"Your are Wrong, Option \"d\" is correct answer",
+        "b":"Your are Wrong, Option \"d\" is correct answer",
+        "c":"Your are Wrong, Option \"d\" is correct answer",
+        "d":"You are right"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
